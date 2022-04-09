@@ -1,4 +1,4 @@
-=== Deappro Custom Block ===
+=== Custom Contact Block ===
 Contributors:      The WordPress Contributors
 Tags:              block
 Tested up to:      5.9
